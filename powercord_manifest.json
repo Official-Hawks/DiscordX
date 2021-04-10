@@ -1,0 +1,9 @@
+{
+    "name": "DiscordX",
+    "description": "Make all of discord use the discord font family ( goodbye lowercase txt )",
+    "version": "0.3",
+    "author": "ʜᴀᴡᴋꜱ#1337",
+    "theme": "/style.css",
+    "consent": "false",
+    "license": "MIT"
+}
